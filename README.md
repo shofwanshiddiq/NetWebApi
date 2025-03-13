@@ -16,7 +16,7 @@ This is a .NET Web Application projects using .NET 8 features user data login ma
 * Entity Frameworks 6
 * Entity Framework Core Identity 8.0.4
 * Entity Framework Core Tools 9.0.3
-* Visual Studio 2019
+* Visual Studio 2022
 * Microsoft SQL Server 2019
 
 ## API Endpoints Documentation
