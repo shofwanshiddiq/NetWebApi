@@ -1,5 +1,5 @@
 # ASP.NET WEB API for User login and Employees Data Management
-This is a .NET Web Application projects features user data login management with bearer token authentication & authorization using Entity Frameworks Core Identity and CRUD operation for employees data management. Utilizing .NET Entity Frameworks for integration with Microsoft SQL Server. Utilize Swagger for web api deployment.
+This is a .NET Web Application projects using .NET 8 features user data login management with bearer token authentication & authorization using Entity Frameworks Core Identity and CRUD operation for employees data management. Utilizing .NET Entity Frameworks for integration with Microsoft SQL Server. Utilize Swagger for web api deployment.
 
 ### Features
 * Register & Login with JWT Token
